@@ -62,8 +62,8 @@ attempt to minimize imposing limits on how it's used.
 	sprite according to the object's position and size values.  The default update function is empty.
 ### SQUID.Animation
 	- Animation class integrated with Entity class.  Declare animations with the resource URL, starting frame
-	coordinate, frame size, and number of frames.  Declare Entity.animation = yourAnim and Entity will render the animation
-	by default if no explicit render function is declared for the entity.
+	coordinate, frame size, and number of frames.  Declare Entity.animation = yourAnim and Entity will render the
+	animation by default if no explicit render function is declared for the entity.
 	
 ### SQUID.Layer
 	- Layers are a container class used for managing entities.  The main Squid object contains an array of layers
