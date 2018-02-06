@@ -28,11 +28,11 @@ attempt to minimize imposing limits on how it's used.
 
 ### These are my main goals in developing Squid:
 
-1.) Enable rapid development of interactive web content by providing a basic framework for
+1. Enable rapid development of interactive web content by providing a basic framework for
 an update and render cycle, resource management, input detection, and entity system.
-2.) Minimize time spent on bootstrapping with simple constructor functions and a lightweight,
+2. Minimize time spent on bootstrapping with simple constructor functions and a lightweight,
 single-file include.
-3.) Allow freedom in architecture design by sticking with traditional JavaScript prototypes.
+3. Allow freedom in architecture design by sticking with traditional JavaScript prototypes.
 
 
 ## What's included?
